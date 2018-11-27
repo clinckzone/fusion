@@ -16,7 +16,7 @@ Fusion is a smoke simulation developed on Processing 3 which makes use of partic
  - Click the play button to run the code.
  
 ### Program Controls
-Pressing the right mouse button places a particle system at that position while pressing the left mouse button places an attractor. Particles that are being released from the system are attracted to these attractors in accordance with Newton's Inverse Square Law.
+Pressing the right mouse button (RMB) places a particle system at that position while pressing the left mouse button (LMB) places an attractor. Particles that are being released from the system are attracted to these attractors in accordance with Newton's Inverse Square Law.
 
 ## Details
 There are two kinds of objects here. One is simply a **particle** and another one is an **attractor**. An attractor attracts other particles in accordance with Newtown's Inverse Square Law.
