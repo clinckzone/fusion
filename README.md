@@ -8,7 +8,7 @@ Fusion is a smoke simulation developed on Processing 3 which makes use of partic
 
 
 ## Usage
-### Setting up 
+### Setup for local development
  - Download the entire repository on your system. 
  - Inside the folder named Fusion, there's a fusion.pde file. 
  - Open it using Processing 3. 
