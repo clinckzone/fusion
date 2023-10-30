@@ -69,16 +69,12 @@ class Particle  {
       noStroke();
       colorMode(HSB);
       imageMode(CENTER);
-      //fill(hue, 255, 255, lifespan);
       tint(hue, 255, 255, lifespan/2);
       pushMatrix();
         translate(position.x, position.y);
         rotate(-angle);
         image(image, 0, 0);
-        //ellipse(0, 0, 6*radius, 6*radius);
       popMatrix();
-      //stroke(hue, 255, 255, lifespan);
-      //line(prevPosition.x, prevPosition.y, position.x, position.y);
     popStyle();
   }
   
